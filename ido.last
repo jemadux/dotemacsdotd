@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jemadux/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jemadux/"
+ "/home/jemadux/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bashrc"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jemadux/" (26381 14844 516983 991000) ".wget-hsts" "./" ".sudo_as_admin_successful" "Projects/" "Pictures/" "Downloads/" "Templates/" ".xsession-errors" ".offlineimaprc" "Public/" "Music/" ".local/" ".mozilla/" ".ICEauthority" "../" ".gnupg/" ".zcompdump-cryptolab-5.9" "Mega/" ".bash_logout" ".xsession-errors.old" ".bash_history" ".pki/" ".oh-my-zsh/" ".face" "Desktop/" ".bashrc" ".config/" "Videos/" ".face.icon" ".cache/" ".dmrc" ".offlineimap/" ".zcompdump-cryptolab-5.9.zwc" ".profile" "Documents/" ".emacs.d/" ".zshrc" ".Xauthority" ".lesshst" ".zsh_history" "snap/")
+
+ ("/home/jemadux/.emacs.d/" (26381 12316 512625 206000) "init.el" "./" "early-init.el" "transient/" "../" "eln-cache/" "init.el~" "custom.el~" "custom.el" "auto-save-list/" "elpa/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
